@@ -79,6 +79,7 @@ I'm ready to start building! If you have an idea or project that aligns with my 
 
 I'd love to connect and collaborate! Feel free to reach out:
 
+- **My X profile — (https://x.com/JayPro_01)** — Let's connect via X :)
 - **💼 [LinkedIn](https://www.linkedin.com/in/james-nwokedi-a4a140331)** — Let's connect professionally
 - **📧 [Email](mailto:nwokedijames08@gmail.com)** — nwokedijames08@gmail.com
 - **📧 [Alternative Email](mailto:James.Itiba@outlook.com)** — James.Itiba@outlook.com
