@@ -1,0 +1,892 @@
+[2026-04-16 10:59:48] INGESTION FAILED: File not found: C:\Documents\sample_inventory.csv
+[2026-04-16 11:04:16] INGESTION FAILED: File not found: C:\Users\HP\Documents\sample_inventory.csv
+[VALIDATION ERROR] Row data: {'product_name': 'Sliced Bread 600g', 'sku': 'SKU-004', 'price': '₦1', 'expiry_date': '200.00', 'quantity': '14/04/2026', 'category': '200', 'supplier': 'Bakery', None: ['La Farine']} | Reason: keywords must be strings
+[2026-04-16 11:18:10] WhatsApp send failed — check sentinel.log for details.
+[VALIDATION ERROR] Row data: {'product_name': 'Sliced Bread 600g', 'sku': 'SKU-004', 'price': '₦1', 'expiry_date': '200.00', 'quantity': '14/04/2026', 'category': '200', 'supplier': 'Bakery', None: ['La Farine']} | Reason: keywords must be strings
+[2026-04-16 11:23:41] WhatsApp send failed — check sentinel.log for details.
+[VALIDATION ERROR] Row data: {'product_name': 'Sliced Bread 600g', 'sku': 'SKU-004', 'price': '₦1', 'expiry_date': '200.00', 'quantity': '14/04/2026', 'category': '200', 'supplier': 'Bakery', None: ['La Farine']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'product_name': 'Sliced Bread 600g', 'sku': 'SKU-004', 'price': '₦1', 'expiry_date': '200.00', 'quantity': '14/04/2026', 'category': '200', 'supplier': 'Bakery', None: ['La Farine']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'product_name': 'Sliced Bread 600g', 'sku': 'SKU-004', 'price': '₦1', 'expiry_date': '200.00', 'quantity': '14/04/2026', 'category': '200', 'supplier': 'Bakery', None: ['La Farine']} | Reason: keywords must be strings
+[2026-04-17 23:15:02] WhatsApp send failed — check sentinel.log for details.
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "@�#�>�ʡ���{�1݁��\x1a\x0f�\x1f\x1e\x03âm׀�1\x0c8�ⷰ��.FguϖBw�:Q&��X4:�'\x1f��\x1c"} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...X4:�'\x1f��\x1c"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...X4:�'\x1f��\x1c"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...X4:�'\x1f��\x1c"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...X4:�'\x1f��\x1c"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "\x10�z%>�\x13K9�+\x05��S�\x15S���o�d\x05�\x07�\x17PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\\x01&\x13\x02�\x00\x00\x00+\x02\x00\x00\x11\x00\x00\x00docProps/core.xml͒�N�0\x0c�_\x05�\u07ba\x7fІ��\x17\x10'���\x04�\x169�\x16�i�Ĩ�ۓ��\x13�\x07�\x18��ϟ%7�$\x0e�^��ȳ�p3ٮ\x0f\x12�F\x1c��\x04\x08x �B\x1e\x13}l�\x06o\x15ǧ߃SxT{��(V`��V�`\x06fn!���(ѓ����\x1a\x17���]�i\x04��R�\x01ʼ\x04��\x13�i�\x1a�\x02f\x18���@z!����\x01qNN�", None: ['�q\x1c�N��C\t��O�i���U�\x14\x7f\x05#��h#.�������h��Ze�mV��U-�;Y�?f�\x1f~Wa;h�3���"�6��.�/PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\�\\�#\x10\x06\x00\x00�\'\x00\x00\x13\x00\x00\x00xl/theme/theme1.xml�Z[s�8\x14~��xg�m\x0b�6���\x13siv۴���N\x1f�\x11X�lyd��\x7f�G6\x10˖']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�M��<\x04', None: ['���EG��8y��.b膈��x`�/�ֻ�/��W2$\x11A0\x19����']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�L^�Zi\x00�8}�\x13\x12�܂�\x08Kx\x14��\\�[\x1a/#����V�il�\x18Gd`}^', None: ['h@�TQZo_ ��\x1f3�\x15�T�e�\x01\x13WA&�����l����>e��:\x1d2�n0\x1bX \x7f�o��NZ��T���jg?Vk���H���}�\x05�I���\x15\x082']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': ';:�X�v|��ퟌ��t4m\x1a���x8��ҋp\x1c\x04�Q��\x9d�l��A\t��i�d��ڮ����SO��}��h�'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�SO��}��h�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�SO��}��h�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�SO��}��h�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�SO��}��h�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�[O�kw�ӎ�ƭ�x'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...[O�kw�ӎ�ƭ�x'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...[O�kw�ӎ�ƭ�x'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...[O�kw�ӎ�ƭ�x'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...[O�kw�ӎ�ƭ�x'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "��O�î�ƫ�t�i&'��k��\x16hBF��z\x12\x15��@� \x00Xpv���\x03�^)�u�\x1a�\x1d��A\\�X�9�\x11���\x04�i�\x19�4Fr��\x05\x0e\x007��LP|�A���\x92�\\���)�P\x1a\x08�ȁ�G�!�ܯ����ɤ3z�}:�k�\x7fi�\x01����ϓ�s�䟧��MB�p�", None: ["\t��#[a�'n;\x13r:\x1cgB|�����%2���"]} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�N<g\x1fV��]��䞌r#���X}�OGn#ש��"הF$E��-��\x118�I'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��-��\x118�I'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��-��\x118�I'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��-��\x118�I'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��-��\x118�I'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '2\x13?\x08���jP\x1c\x02�\t1�����Ƭ\x11�\x13}��\x08�ߍ���o�=W�XIڄ�\x10F\x1a�s�s�l�\x07�F��U�ܣ�X\x15\x01�\x18�4�5', None: ['��x���<\x1d\x13\x12͔\x0b\x06A��$&\x12�9~MH\x13�+�����@�/$�J��i�#�t&��3\x1a�F�\x1bu�h�<z�\x05��5']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '\x1c�\x1b\x1d\x02g\x1b�F!�i��\x1e�$����\x11+B>b\x196\x1ar�\x16��q��`Z\x12��xNҴ\x11�Y�5�>`��͑u�֑\x0e\x11�^7B>b\u038b�\x11�\x1e�8J���qX\x04��^�I���f��~��3l', None: ['��G�\x17J�\x0f&�?�24\x07��Y\t��Vj���4>�\x1e2']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '\x05�\x1e>�zx'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...': '\x05�\x1e>�zx'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...': '\x05�\x1e>�zx'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...': '\x05�\x1e>�zx'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...': '\x05�\x1e>�zx'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '7�ƼP��{\x01���7«���9\x7f.}ϥ��=�ҷ7#}g�Ӌ[�Fn[���1��4.(cWr���T��)�9����h>�����$���Y-#\x16�K��A$�����*�\t�d[%\t�T�e7�\x12�B\x1bn�S�J��对(�<[�鯡t>', None: ['��<_��\x0b3C�rK궔��&8J���pN\x1e�\x0c;g<�\x1d�w�\x1d5��]v�#�0S�C�\x1aB�\x03m���:8����']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�R�o����x\x1a�9�\x04�}�Wm�������Q���<�\x1dǈ�!\ue846���C�y{_�g��P4\x14ml�$', None: ['F�`���', '\x14�d`-�\x07��Q\x02�RU`1[�\x03+��|L�E�p�\\_�ђ�ۦe�n�)w\x19m"R9�i�\x13g���e��U\x1d�U[�j=�\x15N��Y�ȟ\x0c\x11N\x16\x0b\x12Hc�\x17�J��\x19S��+I�U8�E3�\x12�\x18����qNS�\x12v�\x0f\x022��9�ze1g���-\x0c\t', '[�Y\x12�M]��盜�z"v��w�`��p�G\x0f�;�_�]C�~����n�;HL�y�\x11\x01tE\x02#�\x1c\x06\x16\x172�P\ue490\x06\x13\x01͔�D�\x02�d�\x1c���\x0b��\x0c�)\x15έ>9\x7fE', '��N^�%\x12\x14��\x0c\x05!\x17r���jw���', "�m�T2d�\x17�C��=3rC�T%��&\x0b���Tͻ\x1a�&`K�zn�-'��^�=�\x17=F��\x1e��s�z��E��X�\x1e�2�9p�:�\x03^�\x13", 'C�~�}���\x11�b���O�%�;�{� ���ۤ���\x0c|ԫZ�d+\x11?K\x07|\x1f�\x06c�[�4_�\x14b������1\x0cy�X�\x0c�f8߇E�\x1a3Ջ�9�']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'oA�@�?��'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...': 'oA�@�?��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...': 'oA�@�?��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...': 'oA�@�?��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...': 'oA�@�?��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'h�'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...E�.�m32�': 'h�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...E�.�m32�': 'h�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...E�.�m32�': 'h�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...E�.�m32�': 'h�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '4\x1c�\x05^1��6��N'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x05^1��6��N'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x05^1��6��N'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x05^1��6��N'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x05^1��6��N'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '<���'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...m32�': '<���'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...m32�': '<���'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...m32�': '<���'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...m32�': '<���'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '��Ď�틿\x01PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\v��\x1f>\t\x00\x00]5\x00\x00\x18\x00\x00\x00xl/worksheets/sheet1.xml���O�H\x13���UN:�N���%/\x14�HZ\x0e��\x16�r�~:m�Mb�xS{'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...6�r�~:m�Mb�xS{'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...6�r�~:m�Mb�xS{'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...6�r�~:m�Mb�xS{'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...6�r�~:m�Mb�xS{'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "�\x7f�3k;\x10�Y�R\x0b��wv��xfvl\x1f=��1_I�ُu��ǝ�֛�^/���Z�\x1f�F���Bek��c���L�y)Z'=���������Q��:;9R�N�T^g", None: ['/�k���e���;���p\x13/W�l�\x1cm�R�J}����S���<^�4�U�2�8���\x0b\x7fd\x04�\x1e���9����C�*�h>\\̏;��H&r��\t\x01���D&��\x04~|��v^�4�ݿ���ʃ����\\NT�\x10���3찹\\�"�7��\\�\x07\x14\x19{3���O�\\�\x1b�γ"�j]���u�V�ŏz"v\x04�G\x04~-��\x05!"\x08jA�V\x10ւp_�!��\x16D�\x02�����\'�\x1eԂA[���`�֥Q-(��U�<���\x16\'G�zfY��9��밯�\x1dX��=J��\x1dak����Vg�m\x0c\x06��Y"2y�����T÷\t������O�V�7�d\x17�\x13|��\x17��\x1f�4xc��\x19�\x07/^]�+W�\x0e��_��#���\\�9\x1c]\x0e\x17�և�*r�Rɼ�62�U*\x126\x03��L�s6�O2��5�mZ.�G���r��6\x1d\x0cJ\x07\x03��M���L����|?N�\x1e������&�!�m�ϴL�����\x7f0�6�\x17Z��\x10\x00�~�(�h��$�ʿ\x1c�Sl6I', '3��ܡTEf��\x0bZ�*-s��ЍsX\x0e\x10"\x03|�Z�u~']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 's�ˍ�\x0b�2�^�s6��ubㇶw���\x01���!Z\x08�R\x10'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��!Z\x08�R\x10'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��!Z\x08�R\x10'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��!Z\x08�R\x10'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��!Z\x08�R\x10'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '?��0�>z��&ڀ���\x10�߷���59��\x0fc<�RC�?�^�6lh鍜=�Zۨ����L���\x05&k�\x11���J[\x11�·�b��̖\x10]ٵz�ˌ��K\x1b\x19���\x0c�F\x06-\x0c���\x03-�\x1e��x��V<��>\x10�}\x12\x08Zz�Ɖ�\t6"h%J\x04&k\x10�w\x13ѧ/\x04�m L�)8\x06�&�\x14) \x11yH���UP\x046(ha\x1d.8�\x06-�>\x15*��P\x11D{d8f�"��\x12��\x16�`в/&\x05���J�D�\x19��\x19���f1�l\x0f"_���\x1c�/m�І*bB\x1b1�0��\x15�d\x16Z��7@q\x194"�p?���I\\h���P�~�ˆ\x0b-Dq�d'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...P�~�ˆ\x0b-Dq�d'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...P�~�ˆ\x0b-Dq�d'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...P�~�ˆ\x0b-Dq�d'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...P�~�ˆ\x0b-Dq�d'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�n���>v"�b����LL3S\u05eb��&�\x0c�H�0Wr\x11ٸ���\x83q;\x1b���UǮv�e�ؠ͓l8�2}���sZ��A�&Y\x0cգH� 2r#3*�\x18`Ūz�l��/e �s\x0emŐ��KTZX�\x12t�h �'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...KTZX�\x12t�h �'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...KTZX�\x12t�h �'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...KTZX�\x12t�h �'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...KTZX�\x12t�h �'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "�!\x05ˮ��%��;�����s\x02KO\x1b0���Jh%�\x0c-{\x10Yj��O�J\x02\x1bӭpqc�!��D%KX�AѢaz�ҫ��a\x03�<k)�W!d�e\x1dJ���J�C\x17@�\x19��\x13�5K��u�ध�\x1c\x1f\\�d����f��a\x03\x05\t�5i�-h�dr�G��lc\x17�6�T\x08:fNX��\x1b���\x16k��Pns\x13R�:�\x1cV@C��]q�\x0cod'�\x08nfh=\x15r\x1cR\x1c\x15L�D�E3��d\x08�"} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...D�E3��d\x08�"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...D�E3��d\x08�"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...D�E3��d\x08�"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...D�E3��d\x08�"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'p�*%]��a�G!�-U�X�Z�2�Ж�C�\x0b�w⊐h?#9\x06p\x03B��2\x06\x0bs�-���b\x1c\x11Z�6/\x05-�\t��J&��q���Y\x015͕�����\x0fm���Z�:�ۥ����\x0c���`=�2\x144�L��L�\x08n�\x1cz|��P�\x04a�&%-Z�<$K��x�!��+�\x04l^�)��� ���%��B�3�\x04��סܒ�\x1d�\x05��\x02\x0fɀ�+�`\x195X�\x07\x18o�X9��d6��8(��Ū����r�kx\x15\'��ũ�`�宻u\x1b �.����LZ��B�}�`�8.�&.�\x1a��#м�گ2\u05c9����..�kRѢ�����X\x15Y�\x14k�&+5S�Y }����$\x02;&�fn�Թ���}�E�`�Gx��7{��F%�-\x12\x14Z;\x11�ia��x�P�`�&)-z�|@W�2��\x05��\x12����$\x1e;\x1f���\x0f{�K+C�\x16�C�Gd��\x15ok�}*�\x01h*����\x0fZ�CA��ֵ-Z��n\x06��S�º(\x11��Y�e"�H��a�B�^նk�v9\x1eRh\x0b\x1e٭��n#��\x03�����b�~��d�T[)��>�Cצdi���#�f��\x1d�~vZ>\x7f��b��n㟒����a�P\x14"\x15/��)\x1av#�"�\x02$&�q�v��}h�\x08�ܔK\x1cH��V�k��\x15\x12��)�t'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x15\x12��)�t'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x15\x12��)�t'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x15\x12��)�t'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x15\x12��)�t'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'Z�\x16�]��{���X�\x1eVR�z.�!ʽ0n\x7fT�a�\x02�Z�:�50\x03��iq�M�\x0eo���6o�)\x16�\x00m`q���C���ꚬ�����̂�S�4��t9\x13�\x07Z���a���Z�:��+�!\x1aW\x1c\x16���N���]����\x18�\x15)����R\x7f��C����u-\x0b\x1e��C�>���F�u��3ez4\x07�R\x06k�Gt���Vqe-�\x1dJ�w=�(Zk\x1e��\x1fsx\'��b�\'�\x1e�\x15Q���"m��\x1a!Z�#�隘����t?�X.c���x\x03?���}�Q�a-�\x1d�:�\x10:�m^\x0f����\x1au�c�Vx�&���S�%/\x07�R�\x1e���b�\x17�51��h��9C�L�_]���KE����j�?BlUw��'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��j�?BlUw��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��j�?BlUw��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��j�?BlUw��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��j�?BlUw��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': ';R���w;\x16\'�o�_�N?��C`폣�\x9c��s�ށ��\x03�\x16\x0eܧ��{0��\x00��×���s����Cr����]h��{0l���ه��\x10�m������\x1d�K�7�F�K��{4"=���C��\x17-��\x01]�N�f�H�y�|g�ۛ@�\x0b3���\x08�����\x17�\x1do\x03T/\x1e]�l\x19�9K�\x02\x06�>\x0e\x00�����\x07�6��\x1cS�!RV�HX�ff\x07�~���~0\x03��Qu�\x7fPK\x03\x04\x14\x00\x00\x00\x08\x00R��\\#t�A\x10\x03\x00\x00�\t\x00\x00\x18\x00\x00\x00xl/worksheets/sheet2.xml��mo�0\x10ǿ��IS��'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...0\x10ǿ��IS��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...0\x10ǿ��IS��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...0\x10ǿ��IS��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...0\x10ǿ��IS��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�O�\x03�\x15�'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...'�O�\x03�\x15�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...'�O�\x03�\x15�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...'�O�\x03�\x15�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...'�O�\x03�\x15�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '��\x08�M{U��\x00\x0b�Nm�����I3���\x12����w\x17?u7R��'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��w\x17?u7R��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��w\x17?u7R��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��w\x17?u7R��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...��w\x17?u7R��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '��mʅ�\x05+c��0��'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x05+c��0��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x05+c��0��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x05+c��0��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x05+c��0��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'R�Od\x06\x02G\x16R��`S-C�)��\x13�<�Z��0�L\x04��뛨~W�3\x01\x13Et��T�n��M/h\x07o\x1dS�\\\x19�\x11��\x19]�\x0c�S6Q�'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x19]�\x0c�S6Q�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x19]�\x0c�S6Q�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x19]�\x0c�S6Q�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x19]�\x0c�S6Q�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "++\tKAh&\x05Q��\x05���7m'p3~3��:��̥\\��(�\x05-K\x04\x1cbcMP", None: ['^a\x00�[K��R\x1a']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '*�V�_\x7f�~��`�T�@�?', None: ['1�^�\tH\x02\x0b�s3��\x1fP\x06tn�Œk��l��\x11N�smdZ�� e�(�LĞ�u@\x10���q\x17�\x1c�\x1a��*�!��Fk��B�6\x16HǄ�', '3�p�����8Up/�', '&3\x10\x06G9���\x13���\x04C�SA��\x00\x05"\x06�=g\ttC���:��\x0e+���rP\x05[e�\x89']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "��\x00����i��ޅ\x13�x����`:��\x1a=>4\x00��\x01O\x0b?�\x07�dJ&yl�\x05M�\x0e�#��9'�"} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x0e�#��9'�"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x0e�#��9'�"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x0e�#��9'�"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�\x0e�#��9'�"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "���;�3?�Y���7���\x18=�'�^r �1^\x13��*\x16\x0cT\x03鹟�ܗV\x16��ӣCVC��\x1c����\x14'\x15y�Y-��.�\x18CLb\x0eTh�̗�X.��\\4�\x0f�\x19S�焚ڈ<�[�&VM���p<\x0e��\x1f����x<>\x1e\x0e�\x02��\x07pٜԗ������=R�=4�Ux`\x18�#L\x14먁����4�", None: ["�\\-����H'�V�7����y՜\x1c�g\x19���"]} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'N�tVJI����\x17x��'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...���\x17x��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...���\x17x��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...���\x17x��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...���\x17x��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '��#���C�9����U���)퍄�-q\x15\x1c��\x15�a\x1b�\x05S\x04Ay�2�7�\x17�ݜ5!'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�2�7�\x17�ݜ5!'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�2�7�\x17�ݜ5!'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�2�7�\x17�ݜ5!'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�2�7�\x17�ݜ5!'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�Zr�p$\x0c(A9q\x16��\x04[ľ}�|Wݖu!�{\x17r'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...[ľ}�|Wݖu!�{\x17r'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...[ľ}�|Wݖu!�{\x17r'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...[ľ}�|Wݖu!�{\x17r'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...[ľ}�|Wݖu!�{\x17r'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'j�\x1d�-d.J��w�i�.��Ӌwј*L�&\x1c\x16(m�\\\u2068�<\x14'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...6(m�\\\u2068�<\x14'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...6(m�\\\u2068�<\x14'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...6(m�\\\u2068�<\x14'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...6(m�\\\u2068�<\x14'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '#3�8�K�9r�\x15"��\x13p|!1��a\x1dT\x0f��?PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\�I.~|\x03\x00\x00�\x16\x00\x00'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...x00\x00�\x16\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...x00\x00�\x16\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...x00\x00�\x16\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...x00\x00�\x16\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '\x00\x00\x00xl/styles.xml�X�n�0\x10��(\x1f��A +@ji�V�]Uj\x1f��\x10\x07', None: ['9�uL\x05���\u0601\x04ȴi\x0b*ڠ*��ϙ��ı;*���\x15��ڤ<+��J��㔋\x15MI�-/h�<I.R"UW', '��\x10��%�R���\x1b:)a�=\x19e�t���Z��L�m�v&�$�jKd\x1b�\x1aJRj=\x13>�����`z', 'I\x19�\x1a�\x0f�E�saI%��m\x0f', '�q{�\x07*+��e�\x00�c"\x1cǹ\x11�p��+�:�XΕZw���(�.�\x0c#����=�B�\x0b���_N�\x7fn�N']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '\x0fH�ip�wQ\x12}+\x15\x19�|_�\x03�\x18&��HIE6S\x1d���\x13�U������ [��\u06dd\x01e�Y\x0c!�Ӧr�n\x10\x0c\x06��\x01�$�\x17�^p\x7ff�Yo\x16�έtvsw{7<7��', None: ['�Ǖꛪ�y.b*����;�d�i"\x15\\��']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "�2/��s)�T5bF�yFt��\x10M��\x17�-Wz1=�ԩ��6\x18Z���c���\x005r��#�\x0cnL�j�|-(�@�'�'�ST��2ߋ\x1f1|*", None: ['x�vM��ihL\x07\x025�\x0cw���!^�`Ϲ�]�)d��w�K� h�6��I�\x020v�f���IQ��']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'g�', None: ['�f�\x03NFd��V�`/*\x1a', 'S\x0be�¶���lѰ@�6\t.�Ǔp9�o�']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'jQAS�w]���2{���\x19I��I�_���J$a%���a\x1f/�3�����\x19�ïX\x7f�J���\x0bۻ\x0box}+����U��@4v)\x07{��Ղ����'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...7{��Ղ����'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...7{��Ղ����'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...7{��Ղ����'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...7{��Ղ����'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�`^\x07��k�%˪ފ�1�N�*�^��:g\x1f��1MȚ˧�sl��_4f�4ڏz��W���O��y��h�b�', None: ['�\x1b\x1aO��ڬ\x1d\x1e\x1d�\x05�cO}�:�`\x18�k��\x0f��)�0\x06�����3D�c|��a�g�b�(Ơ�<S���c"u��4�� \x0c����ŉ�)��0��v6L\x1b �8\x10�}�Ɵ6^!��\x01�L_�\x10l�x%b3�s']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '���\x01"�ڟ6\x16\x07\x10�S�j\x07�ǁ�j�\x04��ڦ'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...ǁ�j�\x04��ڦ'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...ǁ�j�\x04��ڦ'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...ǁ�j�\x04��ڦ'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...ǁ�j�\x04��ڦ'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '{�qO\x14a\x1e���\x1a'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x14a\x1e���\x1a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x14a\x1e���\x1a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x14a\x1e���\x1a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x14a\x1e���\x1a'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': 'C$;!�ڟ\x0f��\x04A\x14�{�\u05ee \x080\x0f���\x07S\x00\x1a0O\x10�������}����ϓ\x7fPK\x03\x04\x14\x00\x00\x00\x08\x00R��\\���\x1c�\x00\x00\x00\x13\x02\x00\x00\x0b\x00\x00\x00_rels/.rels���n�0\x0c@\x7f�О0\x07�!�3e�\x16\x04�\x01V�\x0f�\x12\x05�E���ڥq�\x0b\x19y=<\x12�\x1ei@�8����\x18�\x10RiZո\x01H�%�iΑB��', None: ['\x1e5��@D�cC�Z', '>@.\x19f��d\x16�s�W�\\ם�=�/OAo��:LqBiHK3\x0e���\x7f2��\x0c5E�J#�[\x1ax���v�Iѡ"X\x16�E�Ӣ\x1d�\x7f\x1d�����c"�z[��qhT']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "��c%�qb��5��\x0f�~\x00PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\H\x12-�H\x01\x00\x00�\x02\x00\x00\x0f\x00\x00\x00xl/workbook.xml�R�j�0\x0c���\x0fXҰ\x15V���l+�����N�4��\x15d�]��S\x12�\x02���=�:�����3�1':F��8��:�f\x11Ǿ��j\x7fC"} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�f\x11Ǿ��j\x7fC"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�f\x11Ǿ��j\x7fC"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�f\x11Ǿ��j\x7fC"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�f\x11Ǿ��j\x7fC"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '8�T�V\x07)�\x10��A��\x06\x08��i��c�ѩ��ȵ�xZP�" 9\x01;`�p�����N�1G�ᒩ�n@E\x16\x1dZ�B��DE���\x0b1^�\x05mv\x05�1��'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x05mv\x05�1��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x05mv\x05�1��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x05mv\x05�1��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...\x05mv\x05�1��'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "�=p��\x07��D~���H���\x16!��'BX!��O��Z4�@���"} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...O��Z4�@���"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...O��Z4�@���"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...O��Z4�@���"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...O��Z4�@���"}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�&\x00�t�g��Aw�h�E<���0�C�\x0b�K�TUX���ւ\x0bC�\x0c�\x13�|��W��\x162�v\'\x19 �t��u9�\x0b"l�\x16/P\x1a�.{��\'g\x03\x07p�DK�����k̨�'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...K�����k̨�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...K�����k̨�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...K�����k̨�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...K�����k̨�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '\x1d����\x05�}\x15[���������e/�1����'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�e/�1����'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�e/�1����'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�e/�1����'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...�e/�1����'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�r�|�.\x0f_PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\��', None: ['Z�\x00\x00\x00�\x02\x00\x00\x1a\x00\x00\x00xl/_rels/workbook.xml.relsŒM']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '�0\x10F�\x12r����EQWݸ-^ ���ф̔��ku��.����7!�{0�\x1f�\x15�f���$�^\x0f�Ȇ��\x00�h�Wt2\x16���2�W<GW�UE�j�(\x08���\x0c��{��\'��\x10MU�\x05�M��q�/`x\x19�Q��R���ȉ�Qoc��\x08O3Y��L���P¿�"O(:P�x�H�͚����<�ŭ}�������\x00��K�PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\n�$�\x1e\x01\x00\x00W\x04\x00\x00\x13\x00\x00\x00[Content_Types].xmlŔ�N�0\x0c�_��uj2v���]�+��\x0b��]��boto��n�@�b*\x12�F�������~;F��s�c!\x1a���\x14�'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...c!\x1a���\x14�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...c!\x1a���\x14�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...c!\x1a���\x14�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...c!\x1a���\x14�'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': "8�2D�\x1c�Cr��7�T�e�w�V��*�'�S�!6�'���R���6��\x0b����\x1e�ĞU\x08\x1d�5�&�����Q�\x13Ar吃����\x04��\x12��πS��\x01R2\x15d[��E;�R�UHG\x0b(�%��\x18�ڔP�r�DbL�+l\x00�Y9�.���\x13��{7�?�L\x019s�BDv", None: ['����%}u\x1eY\x08\x12��#^�', '=�|л]A�K6��#�v�\x03հ̟�W�/�7����>�Ch�����t��3_']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '���\x13PK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00�\x01\x00\x00\x00\x00docProps/app.xmlPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\\x01&\x13\x02�\x00\x00\x00+\x02\x00\x00\x11\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00�\x01�\x00\x00\x00docProps/core.xmlPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\�\\�#\x10\x06\x00\x00�\'\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00�\x01�\x01\x00\x00xl/theme/theme1.xmlPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\v��\x1f>\t\x00\x00]5\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00��"\x08\x00\x00xl/worksheets/sheet1.xmlPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\#t�A\x10\x03\x00\x00�\t\x00\x00\x18\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00���\x11\x00\x00xl/worksheets/sheet2.xmlPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\�I.~|\x03\x00\x00�\x16\x00\x00'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...x00\x00�\x16\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...x00\x00�\x16\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...x00\x00�\x16\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...x00\x00�\x16\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00�\x01�\x14\x00\x00xl/styles.xmlPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\���\x1c�\x00\x00\x00\x13\x02\x00\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00�\x01�\x18\x00\x00_rels/.relsPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\H\x12-�H\x01\x00\x00�\x02\x00\x00\x0f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00�\x01l\x19\x00\x00xl/workbook.xmlPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\��', None: ['Z�\x00\x00\x00�\x02\x00\x00\x1a\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00�\x01�\x1a\x00\x00xl/_rels/workbook.xml.relsPK\x01\x02\x14\x03\x14\x00\x00\x00\x08\x00R��\\n�$�\x1e\x01\x00\x00W\x04\x00\x00\x13\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00�\x01�\x1b\x00\x00[Content_Types].xmlPK\x05\x06\x00\x00\x00\x00']} | Reason: keywords must be strings
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '\x00'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...E�.�m32�': '\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...E�.�m32�': '\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...E�.�m32�': '\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...E�.�m32�': '\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'PK\x03\x04\x14\x00\x00\x00\x08\x00R��\\F�MH�\x00\x00\x00�\x00\x00\x00\x10\x00\x00\x00docProps/app.xmlM�M\x0b�0\x0c\x06�Rv���\x1e�\x0eD=����.u��)m����\x04?nyy�\x1b�.�"&��E�.�m32�': '\x00�\x02\x00\x00\x1c\x1d\x00\x00\x00\x00'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...1c\x1d\x00\x00\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...1c\x1d\x00\x00\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...1c\x1d\x00\x00\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'PK\x03\x04\x14\x00\x00\...1c\x1d\x00\x00\x00\x00'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Test dataset — household, personal care, and beverages category', 'col_1': '', 'col_2': '', 'col_3': '', 'col_4': '', 'col_5': '', 'col_6': '', 'col_7': '', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'product_name', 'col_1': 'sku', 'col_2': 'price', 'col_3': 'expiry_date', 'col_4': 'quantity', 'col_5': 'category', 'col_6': 'supplier', 'col_7': 'source', 'col_8': 'notes'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...urce', 'col_8': 'notes'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...urce', 'col_8': 'notes'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...urce', 'col_8': 'notes'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...urce', 'col_8': 'notes'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Dettol Antiseptic Liquid 750ml', 'col_1': 'SKU-101', 'col_2': '₦2,450.00', 'col_3': '20/04/2026', 'col_4': '60', 'col_5': 'Household', 'col_6': 'Reckitt', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Omo Detergent Powder 2kg', 'col_1': 'SKU-102', 'col_2': '3 800', 'col_3': '05/05/2026', 'col_4': '200', 'col_5': 'Household', 'col_6': 'Unilever', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Harpic Toilet Cleaner 500ml', 'col_1': 'SKU-103', 'col_2': '₦1800', 'col_3': '12/04/2026', 'col_4': '35', 'col_5': 'Household', 'col_6': 'Reckitt', 'col_7': 'excel', 'col_8': 'Expiring soon'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_8': 'Expiring soon'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_8': 'Expiring soon'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_8': 'Expiring soon'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_8': 'Expiring soon'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Ariel Washing Liquid 1L', 'col_1': 'SKU-104', 'col_2': '4,200.00', 'col_3': '01/07/2026', 'col_4': '80', 'col_5': 'Household', 'col_6': 'P&G', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Snuggle Fabric Softener 800ml', 'col_1': 'SKU-105', 'col_2': '₦2 100', 'col_3': '10/04/2026', 'col_4': '20', 'col_5': 'Household', 'col_6': 'Henkel', 'col_7': 'excel', 'col_8': 'Critical'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Dove Body Wash 500ml', 'col_1': 'SKU-201', 'col_2': '₦3,600.00', 'col_3': '18/04/2026', 'col_4': '45', 'col_5': 'Personal Care', 'col_6': 'Unilever', 'col_7': 'excel', 'col_8': 'Warning zone'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Colgate Total Toothpaste 150g', 'col_1': 'SKU-202', 'col_2': '1 250', 'col_3': '30/09/2026', 'col_4': '300', 'col_5': 'Personal Care', 'col_6': 'Colgate-Palmolive', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Vaseline Intensive Care 400ml', 'col_1': 'SKU-203', 'col_2': '₦2800', 'col_3': '15/08/2026', 'col_4': '120', 'col_5': 'Personal Care', 'col_6': 'Unilever', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Nivea Body Lotion 600ml', 'col_1': 'SKU-204', 'col_2': '3,950.00', 'col_3': '22/04/2026', 'col_4': '55', 'col_5': 'Personal Care', 'col_6': 'Beiersdorf', 'col_7': 'excel', 'col_8': 'Warning zone'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Oral-B Toothbrush Medium', 'col_1': 'SKU-205', 'col_2': '₦1 500', 'col_3': '31/12/2026', 'col_4': '400', 'col_5': 'Personal Care', 'col_6': 'P&G', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Lipton Yellow Label Tea 100s', 'col_1': 'SKU-301', 'col_2': '₦1,900.00', 'col_3': '14/04/2026', 'col_4': '90', 'col_5': 'Beverages', 'col_6': 'Unilever', 'col_7': 'excel', 'col_8': 'Critical'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Milo Tin 400g', 'col_1': 'SKU-302', 'col_2': '₦5 600', 'col_3': '25/06/2026', 'col_4': '150', 'col_5': 'Beverages', 'col_6': 'Nestle', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Bournvita Chocolate Drink 500g', 'col_1': 'SKU-303', 'col_2': '₦6,200.00', 'col_3': '30/05/2026', 'col_4': '75', 'col_5': 'Beverages', 'col_6': 'Cadbury', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Nescafe Classic 100g', 'col_1': 'SKU-304', 'col_2': '4 800', 'col_3': '19/04/2026', 'col_4': '40', 'col_5': 'Beverages', 'col_6': 'Nestle', 'col_7': 'excel', 'col_8': 'Warning zone'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Ribena Blackcurrant 1L', 'col_1': 'SKU-305', 'col_2': '₦2,100.00', 'col_3': '08/04/2026', 'col_4': '25', 'col_5': 'Beverages', 'col_6': 'Lucozade Ribena', 'col_7': 'excel', 'col_8': 'Critical'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...l', 'col_8': 'Critical'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Pampers Active Baby Size 3', 'col_1': 'SKU-401', 'col_2': '₦8,500.00', 'col_3': '30/11/2026', 'col_4': '200', 'col_5': 'Baby & Child', 'col_6': 'P&G', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Cerelac Wheat & Honey 1kg', 'col_1': 'SKU-402', 'col_2': '₦7 200', 'col_3': '15/09/2026', 'col_4': '60', 'col_5': 'Baby & Child', 'col_6': 'Nestle', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Johnson Baby Powder 200g', 'col_1': 'SKU-403', 'col_2': '₦1,800.00', 'col_3': '17/04/2026', 'col_4': '85', 'col_5': 'Baby & Child', 'col_6': 'Johnson & Johnson', 'col_7': 'excel', 'col_8': 'Warning zone'} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...'col_8': 'Warning zone'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Aptamil Follow-On Milk 400g', 'col_1': 'SKU-404', 'col_2': '12,000.00', 'col_3': '20/07/2026', 'col_4': '30', 'col_5': 'Baby & Child', 'col_6': 'Danone', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Huggies Wipes 56s', 'col_1': 'SKU-405', 'col_2': '₦900', 'col_3': '31/10/2026', 'col_4': '500', 'col_5': 'Baby & Child', 'col_6': 'Kimberly-Clark', 'col_7': 'excel', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...': 'excel', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'SUMMARY', 'col_1': '', 'col_2': '', 'col_3': '', 'col_4': '', 'col_5': '', 'col_6': '', 'col_7': '', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Total SKUs', 'col_1': '', 'col_2': '', 'col_3': '', 'col_4': '', 'col_5': '', 'col_6': '', 'col_7': '', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Total Units', 'col_1': '', 'col_2': '', 'col_3': '', 'col_4': '', 'col_5': '', 'col_6': '', 'col_7': '', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Critical Items', 'col_1': '', 'col_2': '', 'col_3': '', 'col_4': '', 'col_5': '', 'col_6': '', 'col_7': '', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[VALIDATION ERROR] Row data: {'FlareLogic Sentinel — Sample Inventory v2': 'Warning Items', 'col_1': '', 'col_2': '', 'col_3': '', 'col_4': '', 'col_5': '', 'col_6': '', 'col_7': '', 'col_8': ''} | Reason: 4 validation errors for RawInventoryRow
+product_name
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+price
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+expiry_date
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+quantity
+  Field required [type=missing, input_value={'FlareLogic Sentinel —...col_7': '', 'col_8': ''}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/missing
+[2026-04-18 00:46:46] WhatsApp send failed — check sentinel.log for details.
+[2026-04-18 00:47:48] WhatsApp send failed — check sentinel.log for details.
+[VALIDATION ERROR] Row data: {'product_name': 'Sliced Bread 600g', 'sku': 'SKU-004', 'price': '₦1', 'expiry_date': '200.00', 'quantity': '14/04/2026', 'category': '200', 'supplier': 'Bakery', None: ['La Farine']} | Reason: keywords must be strings

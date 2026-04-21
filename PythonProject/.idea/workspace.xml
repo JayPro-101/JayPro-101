@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AIDiffSettings">
+    <option name="showAIDiff" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62180bc1-5d57-4aa2-957f-d5c1ac63d19e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/FlareLogic_Sentinel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/FlareLogic_Sentinel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/FlareLogic_Sentinel.spec" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/FlareLogic_Sentinel.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/FlareLogic_Sentinel.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/FlareLogic_Sentinel.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/warn-FlareLogic_Sentinel.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/warn-FlareLogic_Sentinel.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/xref-FlareLogic_Sentinel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/FlareLogic_Sentinel/xref-FlareLogic_Sentinel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/main.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/warn-main.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/build/main/xref-main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/dist/FlareLogic_Sentinel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/dist/FlareLogic_Sentinel.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/dist/main.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/flarelogic/services/whatsapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/flarelogic/services/whatsapp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/main_backup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/main_backup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1018" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JayPro-101&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ff3c9cf1-8f67-4107-97fd-68755eaa091b" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JayPro-101/PythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;ff3c9cf1-8f67-4107-97fd-68755eaa091b&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CEgv2dKYkGjLYHHN4r7evsR6dv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature-upload&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/FLARE_LOGIC_SENTINEL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\FLARE_LOGIC_SENTINEL" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\FLARE_LOGIC_SENTINEL\dist" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="engine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flare_Logic_Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../FLARE_LOGIC_SENTINEL/engine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.engine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62180bc1-5d57-4aa2-957f-d5c1ac63d19e" name="Changes" comment="" />
+      <created>1775956370279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775956370279</updated>
+      <workItem from="1775956371241" duration="4414000" />
+      <workItem from="1775961947269" duration="838000" />
+      <workItem from="1776086946380" duration="12726000" />
+      <workItem from="1776222903870" duration="301000" />
+      <workItem from="1776228264051" duration="153000" />
+      <workItem from="1776286534281" duration="3855000" />
+      <workItem from="1776290865714" duration="8864000" />
+      <workItem from="1776327875406" duration="10272000" />
+      <workItem from="1776454876793" duration="13982000" />
+      <workItem from="1776510862665" duration="13000" />
+      <workItem from="1776548346573" duration="11931000" />
+      <workItem from="1776641484291" duration="4016000" />
+      <workItem from="1776728148935" duration="2057000" />
+    </task>
+    <task id="LOCAL-00001" summary="update :)">
+      <option name="closed" value="true" />
+      <created>1776464788946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776464788946</updated>
+    </task>
+    <task id="LOCAL-00002" summary="for multiple smaller messages--&gt; for twilio.">
+      <option name="closed" value="true" />
+      <created>1776470328136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776470328136</updated>
+    </task>
+    <task id="LOCAL-00003" summary="for better arrangement in for excel and csv file...">
+      <option name="closed" value="true" />
+      <created>1776470392658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776470392658</updated>
+    </task>
+    <task id="LOCAL-00004" summary="for the .csv file and excel file">
+      <option name="closed" value="true" />
+      <created>1776470653272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1776470653272</updated>
+    </task>
+    <task id="LOCAL-00005" summary="for the .exe file">
+      <option name="closed" value="true" />
+      <created>1776471497741</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1776471497741</updated>
+    </task>
+    <task id="LOCAL-00006" summary="this particular line of code will check the rows of both the csv and the excel file.">
+      <option name="closed" value="true" />
+      <created>1776471547769</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1776471547769</updated>
+    </task>
+    <task id="LOCAL-00007" summary="This will make the window of the .exe file (application) to be open, so I can see whatever errors it's giving me...">
+      <option name="closed" value="true" />
+      <created>1776561922396</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1776561922396</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update :)" />
+    <MESSAGE value="for multiple smaller messages--&gt; for twilio." />
+    <MESSAGE value="for better arrangement in for excel and csv file..." />
+    <MESSAGE value="for the .csv file and excel file" />
+    <MESSAGE value="for the .exe file" />
+    <MESSAGE value="this particular line of code will check the rows of both the csv and the excel file." />
+    <MESSAGE value="This will make the window of the .exe file (application) to be open, so I can see whatever errors it's giving me..." />
+    <option name="LAST_COMMIT_MESSAGE" value="This will make the window of the .exe file (application) to be open, so I can see whatever errors it's giving me..." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$practice.coverage" NAME="practice Coverage Results" MODIFIED="1775956546098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
